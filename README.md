@@ -1,16 +1,14 @@
-# weather_app
+# Simple Weather App
 
-A new Flutter project.
+This app is a flutter project that provides dynamic real time data about the weather at any instant of time. Real time data obtained using API includes description, min & max temperatures, pressure, humidity, wind speed, clouds.  
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+Check out the screenshot here
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
+<img width="558" alt="Screenshot 2023-01-31 at 9 28 58 PM" src="https://user-images.githubusercontent.com/117646114/215818514-b76879ac-37dc-4cfd-8bb2-0fc39d9e60a8.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+👤Deepthi Ashok Karani
